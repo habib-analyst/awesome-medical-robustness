@@ -1,8 +1,10 @@
 # Awesome Medical-AI Robustness [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of benchmarks, methods, tools, and papers for **robust medical AI** — because a model that works in the lab and breaks in the clinic is not a model at all.
+[![License: CC0](https://img.shields.io/badge/license-CC0-blue.svg)](LICENSE) [![GitHub stars](https://img.shields.io/github/stars/habib-analyst/awesome-medical-robustness.svg)]
 
-Robustness is where medical AI meets reality: corrupted scanners, shifting patient populations, contaminated benchmarks, silent model drift. This list collects the benchmarks that measure it, the methods that fix it, and the tools that monitor it.
+**A curated list of benchmarks, methods, and tools for robust medical AI — because a model that works in the lab and breaks in the clinic is not a model at all.**
+
+59 entries across 9 sections. All 61 links verified at release (60× HTTP 200; 1 PubMed link confirmed loading via browser fetch).
 
 ## Contents
 
@@ -129,6 +131,6 @@ Ecosystems and hubs around medical imaging, robustness, and reliable ML.
 
 Contributions welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) first: entries must be on-topic (robustness of medical AI, broadly construed), actively maintained or field-defining, with a one-line description and a verified working link.
 
-## License
-
-[![CC0](https://img.shields.io/badge/license-CC0-blue.svg)](LICENSE) — To the extent possible under law, the curators have waived all rights to this list under [CC0](LICENSE). Linked projects keep their own licenses.
+---
+Built by [Habib Ur Rehman](https://github.com/habib-analyst) · ML/AI Engineer & healthcare-AI researcher ·
+[LinkedIn](https://www.linkedin.com/in/hur-dev) · [habib.top](https://habib.top)
